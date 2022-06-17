@@ -28,6 +28,9 @@
 <p align="center">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
   
  <p align="center"> I like building Web3 stuff, especially on Solana. I mostly work with Rust, C++, and Typescript, with specialization in agile. </p>
+ 
+ 
+ 
 
 ## &nbsp; **2022 Major Projects**
 
