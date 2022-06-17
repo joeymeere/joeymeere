@@ -27,13 +27,13 @@
 ..░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░..</p>
 <p align="center">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
   
-  I like building Web3 stuff, especially on Solana. I mostly work with Rust, C++, and Typescript, with specialization in agile.
+ <p align="center"> I like building Web3 stuff, especially on Solana. I mostly work with Rust, C++, and Typescript, with specialization in agile. </p>
 
 ## &nbsp; **2022 Major Projects**
 
-### :gift: Mobius Protocol (Mega Hackathon 2022)
+### :godmode: Mobius Protocol (Mega Hackathon 2022)
 
-<img align="center" src="img/nifty.png" width="500">
+<img align="center" src="img/mobius.png" width="500">
 
 The project was submitted as part of ETHAmsterdam 2022 organized by ETHGlobal. Our group identified a key problem with NFTs and it is the struggle for teams to provide utilities. A fully digital metaverse is not here yet and people will always still seek comfort in tangible real world utilities. Today, we have millions of brands and services out there looking for consumers but there is no easy way for them to tap on the users and liquidity accumulated in the NFT ecosystem.
 
@@ -43,29 +43,20 @@ Over the 36-hours hackathon, my team prototyped a which platform serves as a Dis
 
 Find out more about the project at our repository:
 
-<https://github.com/NiftyRewards>
-
-<p align="left">
-<a href="https://www.niftyr3wrds.com/">
-<img src="img/niftyrewards.png" width="100"/>
-</a>
+<https://github.com/0xSavant/MobiusCrowdfunding>
 
 
 ## 🔧 &nbsp;**Current Tech Stack**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Solidity-FFFFFF?style=for-the-badge&logo=solidity&logoColor=000000">
+<img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000">
 <img src="https://img.shields.io/badge/IPFS-FFFFFF?style=for-the-badge&logo=ipfs&logoColor=63D3D9">
 <img src="https://img.shields.io/badge/Chainlink-FFFFFF?style=for-the-badge&logo=Chainlink&logoColor=375BD2">
-<img src="https://img.shields.io/badge/SubGraph-FFFFFF?style=for-the-badge&logo=ethereum&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=007ACC">
-<img src="https://img.shields.io/badge/Hardhat-FFFFFF?style=for-the-badge&logo=ethereum&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/EVMs-FFFFFF?style=for-the-badge&logo=ethereum&logoColor=3C3C3D">
 <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-<img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=000000">
-<img src="https://img.shields.io/badge/Heroku-FFFFFF?style=for-the-badge&logo=heroku&logoColor=430098">
+<img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000">
 <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=2CA5E0">
 <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=000000">
 <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933">
