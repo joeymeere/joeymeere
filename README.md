@@ -36,14 +36,14 @@
 
 ### :godmode: Mobius Protocol (Mega Hackathon 2022)
 
-<img align="center" src="img/mobius.png" width="500">
+<img align="center" src="img/mobius.png" width="250">
 
 This project is being worked on for the 2022 Megahackthon from Northwestern and USC Blockchain. My team and I opted to expand on my earlier crowdfunding project, formerly known as SoFundMe. The project is focused on creating a funding platform without barriers, harnessing fast and seamless decentralization with Solana. Coming off a prior build, our team decided to hone in on multiple key features to help propell us to success.
 
-<ul> Ease of Use <ul>
-<ul> Yield Contribution <ul>
-<ul Optional Social Tokens <ul>
-<ul> Integrated DAO Tooling <ul>
+<ul> Ease of Use </ul>
+<ul> Yield Contribution </ul>
+<ul> Optional Social Tokens </ul>
+<ul> Integrated DAO Tooling </ul>
 
 Find out more about the project at our repository:
 
