@@ -35,11 +35,12 @@
 
 <img align="center" src="img/mobius.png" width="500">
 
-The project was submitted as part of ETHAmsterdam 2022 organized by ETHGlobal. Our group identified a key problem with NFTs and it is the struggle for teams to provide utilities. A fully digital metaverse is not here yet and people will always still seek comfort in tangible real world utilities. Today, we have millions of brands and services out there looking for consumers but there is no easy way for them to tap on the users and liquidity accumulated in the NFT ecosystem.
+This project is being worked on for the 2022 Megahackthon from Northwestern and USC Blockchain. My team and I opted to expand on my earlier crowdfunding project, formerly known as SoFundMe. The project is focused on creating a funding platform without barriers, harnessing fast and seamless decentralization with Solana. Coming off a prior build, our team decided to hone in on multiple key features to help propell us to success.
 
-Bigger brands like Nike and Adidas have the purchasing power to acquire successful NFT collections but what about the 99% of merchants out there?
-
-Over the 36-hours hackathon, my team prototyped a which platform serves as a Discovery Reward platform for users and a one-stop platform for merchants to kickstart nft reward campaigns. Onboarding web2 users and merchants is seamless with the use of technologies like web3Auth and walletConnect.
+<ul> Ease of Use <ul>
+<ul> Yield Contribution <ul>
+<ul Optional Social Tokens <ul>
+<ul> Integrated DAO Tooling <ul>
 
 Find out more about the project at our repository:
 
@@ -50,13 +51,11 @@ Find out more about the project at our repository:
 
 <p align="left">
 <img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000">
+<img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=007ACC">
 <img src="https://img.shields.io/badge/IPFS-FFFFFF?style=for-the-badge&logo=ipfs&logoColor=63D3D9">
 <img src="https://img.shields.io/badge/Chainlink-FFFFFF?style=for-the-badge&logo=Chainlink&logoColor=375BD2">
-<img src="https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=007ACC">
 <img src="https://img.shields.io/badge/EVMs-FFFFFF?style=for-the-badge&logo=ethereum&logoColor=3C3C3D">
-<img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000">
 <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=2CA5E0">
 <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=Github&logoColor=000000">
 <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933">
