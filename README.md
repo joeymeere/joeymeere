@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/Security%20Audits-lightblue"/>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jmeere/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="kenk_linkedin"></a>
 <a href="https://discord.gg/8hZRT7VKpb" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="kenk_discord"></a>
 
 
