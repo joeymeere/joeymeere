@@ -27,7 +27,7 @@
 ..░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░..</p>
 <p align="center">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
   
- <p align="center"> I like building Web3 stuff, especially on Solana. I mostly work with Rust, C++, and Typescript, with specialization in agile. </p>
+ <p align="center"> I'm a Clemson University Student who likes building cool Web3 stuff, especially on Solana. I mostly work with Rust and Typescript, with specialization in agile development practices. </p>
  
  
  
