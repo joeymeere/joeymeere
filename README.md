@@ -34,13 +34,13 @@
 
 ## &nbsp; **2022 Major Projects**
 
-### :godmode: Mobius Protocol (Mega Hackathon 2022)
+### :godmode: Mobius Protocol
 
-<img align="center" src="img/mobius.png" width="250">
+<img align="center" src="img/mobius.png" width="200">
 
-This project is being worked on for the 2022 Megahackthon from Northwestern and USC Blockchain. Mobius is the continuation my earlier crowdfunding project, formerly known as SoFundMe. I was inspired to create this project in January, when the Freedom Convoy in Canada subsequently had their GoFundMe fundraisings taken from them. I'm a firm believer in the natural right of transaction, and a situation like this angered me.
+Mobius Protocol is a Web3-based crowdfunding protocol built for robust funding without barriers. It is the continuation of an earlier project, formerly known as SoFundMe. I was inspired to create this project in January, when the Freedom Convoy in Canada subsequently had their GoFundMe fundraisings taken from them. I'm a firm believer in the natural right of transaction, and a situation like this angered me.
 
-Mobius Protocol is focused on creating a funding platform without barriers, harnessing fast and seamless decentralization with Solana. Coming off a prior build, our team decided to hone in on multiple key features like Yield Contribution and Integrated DAO tooling to help propell us to success.
+Mobius is focused on creating a funding platform without barriers, harnessing fast and seamless decentralization with Solana. Coming off a prior build, our team decided to hone in on multiple key features like Yield Contribution and Integrated DAO tooling to help propell us to success.
 
 Find out more about the project at our repository:
 
