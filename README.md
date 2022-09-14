@@ -36,7 +36,7 @@
 
 ### :godmode: Mobius Protocol
 
-<img align="center" src="img/mobius.png" width="200">
+<img align="center" src="img/mobiuslogo.png" width="100">
 
 Mobius Protocol is a Web3-based crowdfunding protocol built for robust funding without barriers. It is the continuation of an earlier project, formerly known as SoFundMe. I was inspired to create this project in January, when the Freedom Convoy in Canada subsequently had their GoFundMe fundraisings taken from them. I'm a firm believer in the natural right of transaction, and a situation like this angered me.
 
