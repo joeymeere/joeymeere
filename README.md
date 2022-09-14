@@ -44,7 +44,7 @@ Mobius is focused on creating a funding platform without barriers, harnessing fa
 
 Find out more about the project at our repository:
 
-<https://github.com/0xSavant/MobiusCrowdfunding>
+<https://github.com/0xSavant/MobiusProtocol>
 
 
 ## 🔧 &nbsp;**Current Tech Stack**
