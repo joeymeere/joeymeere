@@ -53,7 +53,6 @@ Find out more about the project at our repository:
 <img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000">
 <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=007ACC">
-<img src="https://img.shields.io/badge/IPFS-FFFFFF?style=for-the-badge&logo=ipfs&logoColor=63D3D9">
 <img src="https://img.shields.io/badge/Chainlink-FFFFFF?style=for-the-badge&logo=Chainlink&logoColor=375BD2">
 <img src="https://img.shields.io/badge/EVMs-FFFFFF?style=for-the-badge&logo=ethereum&logoColor=3C3C3D">
 <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=2CA5E0">
