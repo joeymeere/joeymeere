@@ -6,9 +6,6 @@
 <img src="img/smbsonic.png" width=200/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Web3%20Developer-blue"/>
-
-<p align="center">
 <img src="https://img.shields.io/badge/-Web3-orange"/>
 <img src="https://img.shields.io/badge/-DeFi-orange"/>
 <img src="https://img.shields.io/badge/-Rust-orange"/>
@@ -27,7 +24,7 @@
 ..░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░..</p>
 <p align="center">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
   
- <p align="center"> I'm a Clemson University Student who likes building cool Web3 stuff, especially on Solana. I mostly work with Rust and Javascript, but I'm open to solving hard problems in any language. </p>
+ <p align="center"> I'm a Clemson University Student who likes building cool Web3 stuff, especially on Solana. I mostly work with Rust and Javascript, but I'm always open to solving hard problems in any language. </p>
  
  
  
@@ -36,15 +33,15 @@
 
 ### :godmode: Stockpile
 
-<img align="center" src="img/mobiuslogo.png" width="100">
+<img align="center" src="https://i.imgur.com/nmjGxMB.png" width="500">
 
-Mobius Protocol is a Web3-based crowdfunding protocol built for robust funding without barriers. It is the continuation of an earlier project, formerly known as SoFundMe. I was inspired to create this project in January, when the Freedom Convoy in Canada subsequently had their GoFundMe fundraisings taken from them. I'm a firm believer in the natural right of transaction, and a situation like this angered me.
+Stockpile is a crowdfunding platform for individuals, charities, and open-source projects. It leverages Solana to bring a lightning fast and secure crowdfunding experience, while expanding on the user experience that makes legacy platforms great. Other features included reputation based funding with GitHub contribution tracking, fundraiser embedded bounties, and quadratic funding. 
 
-Mobius is focused on creating a funding platform without barriers, harnessing fast and seamless decentralization with Solana. Coming off a prior build, our team decided to hone in on multiple key features like Yield Contribution and Integrated DAO tooling to help propell us to success.
+I've been serving as Co-Founder and Lead Dev for the last month, and hyped to continue building the premier Web3 crowdfunding experience!
 
-Find out more about the project at our repository:
+<https://github.com/StockpileProtocol>
 
-<https://github.com/0xSavant/MobiusProtocol>
+<https://stockpile.pro>
 
 
 ## 🔧 &nbsp;**Current Tech Stack**
