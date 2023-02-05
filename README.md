@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-<h1 align="center">0xSavant's GitHub Profile</h1>
+<h1 align="center">0xSavant</h1>
 
 <p align="center">
 <img src="img/smbsonic.png" width=200/>
@@ -50,11 +50,10 @@ I've been serving as Co-Founder and Lead Dev for the last month, and hyped to co
 <img src="https://img.shields.io/badge/Rust-FFFFFF?style=for-the-badge&logo=rust&logoColor=000000">
 <img src="https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=007ACC">
 <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=339933">
+ <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000">
 <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933">
 <img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=solana&logoColor=000000">
-<img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=threedotjs&logoColor=339933">
- <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=339933">
- <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=mantine&logoColor=339933">
+<img src="https://img.shields.io/badge/Three.js-FFFFFF?style=for-the-badge&logo=threedotjs&logoColor=F37500">
+<img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=339933">
 <img src="https://img.shields.io/badge/npm-FFFFFF?style=for-the-badge&logo=npm&logoColor=CB3837">
 
