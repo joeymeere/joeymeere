@@ -43,7 +43,8 @@ I've been serving as Co-Founder and Lead Dev for the last month, and hyped to co
 
 <https://stockpile.pro>
 
-#### Awards: ##### 3rd Place in the Reputation Track at Solana Sandstorm 2023
+#### Awards: 
+##### :star2: 3rd Place in the Reputation Track at Solana Sandstorm 2023
 
 <br>
 
@@ -62,7 +63,7 @@ The project is open-sourced with the MIT license and maintained by my teammates 
 <https://cufries.com>
 
 #### Awards:
-##### 1st Place in the Hack For The People track at CUHackIt 2023
+##### :trophy: 1st Place in the Hack For The People track at CUHackIt 2023
 
 <br>
 
