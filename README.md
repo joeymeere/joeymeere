@@ -3,7 +3,7 @@
 <h1 align="center">0xSavant</h1>
 
 <p align="center">
-<img src="img/smbsonic.png" width=200/>
+<img src="https://i.imgur.com/2juwX2H.png" width=200/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Web3-orange"/>
