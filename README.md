@@ -29,7 +29,7 @@
  
  
 
-## &nbsp; **2023 Major Projects**
+## &nbsp; **🧱 2023 Major Projects**
 
 ### :moneybag: Stockpile
 
