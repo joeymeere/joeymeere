@@ -37,7 +37,7 @@
 
 Stockpile is a crowdfunding platform for individuals, charities, and open-source projects. It leverages Solana to bring a lightning fast and secure crowdfunding experience, while expanding on the user experience that makes legacy platforms great. Other features included reputation based funding with GitHub contribution tracking, fundraiser embedded bounties, and quadratic funding. 
 
-I've been serving as Co-Founder and Lead Dev for the last month, and hyped to continue building the premier Web3 crowdfunding experience!
+I've been serving as Co-Founder and Lead Dev for the two months, and hyped to continue building the premier Web3 crowdfunding experience!
 
 <https://github.com/StockpileProtocol>
 
