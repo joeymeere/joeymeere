@@ -7,8 +7,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Web3-orange"/>
-<img src="https://img.shields.io/badge/-DeFi-orange"/>
 <img src="https://img.shields.io/badge/-Rust-orange"/>
+<img src="https://img.shields.io/badge/-Javascript-orange"/>
 
 <p align="center">
  <a href="https://twitter.com/0xSavant" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=0077B5" alt="kenk_twitter"></a>
@@ -24,7 +24,7 @@
 ..░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░..</p>
 <p align="center">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
   
- <p align="center"> I'm a Clemson University Student who likes building cool Web3 stuff, especially on Solana. I mostly work with Rust and Javascript, but I'm always open to solving hard problems in any language. </p>
+ <p align="center"> I'm a Clemson University student who likes building cool stuff, and solving hard problems with emerging technology. I mostly work with Web3, specifically Solana, however also enjoy working with AI and Robotics. </p>
  
  
  
