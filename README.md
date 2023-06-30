@@ -1,30 +1,20 @@
 <!-- markdownlint-disable MD033 -->
 
-<h1 align="center">0xSavant</h1>
+<h1 align="center">Hi, I'm Joey!</h1>
 
 <p align="center">
-<img src="https://i.imgur.com/2juwX2H.png" width=200/>
+<img src="https://i.imgur.com/whikWOM.png" width=200/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Web3-orange"/>
+<img src="https://img.shields.io/badge/-Web3-green"/>
 <img src="https://img.shields.io/badge/-Rust-orange"/>
-<img src="https://img.shields.io/badge/-Javascript-orange"/>
+<img src="https://img.shields.io/badge/-Typescript-blue"/>
 
 <p align="center">
  <a href="https://twitter.com/0xSavant" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=0077B5" alt="kenk_twitter"></a>
 <a href="https://discord.gg/8hZRT7VKpb" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="kenk_discord"></a>
-
-
-<p align="center">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
-
-<p align="center">..░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░..
-..░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█▀▀▀░█▀▀█░█▀█▀█░█▀▀▀░░░░░░░░░..
-..░░░░░░░░░░░░░█░█░█░█▀▀▀░█░░░░█░░░░█░░█░█░█░█░█▀▀▀░░░░░░░░░..
-..░░░░░░░░░░░░░▀▀▀▀▀░▀▀▀▀░▀▀▀▀░▀▀▀▀░▀▀▀▀░▀░▀░▀░▀▀▀▀░░░░░░░░░..
-..░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░..</p>
-<p align="center">●▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬●
   
- <p align="center"> I'm a Clemson University student who likes building cool stuff, and solving hard problems with emerging technology. I mostly work with Web3, specifically Solana, however also enjoy working with AI and Robotics. </p>
+ <p align="center"> I'm a Clemson University student who builds end-to-end products, dabbles with fun side-projects, and makes a few open-source contributions once in awhile. </p>
  
  
  
@@ -33,11 +23,9 @@
 
 ### :moneybag: Stockpile
 
-<img align="center" src="https://i.imgur.com/nmjGxMB.png" width="500">
+<img align="center" src="https://i.imgur.com/MHne2N2.png" width="500">
 
-Stockpile is a crowdfunding platform for individuals, charities, and open-source projects. It leverages Solana to bring a lightning fast and secure crowdfunding experience, while expanding on the user experience that makes legacy platforms great. Other features included reputation based funding with GitHub contribution tracking, fundraiser embedded bounties, and quadratic funding. 
-
-I've been serving as Co-Founder and Lead Dev for the two months, and hyped to continue building the premier Web3 crowdfunding experience!
+Stockpile is a web3 crowdfunding project that utilizes various different funding methods and configurations to provide a high-quality all-in-one experience. Version 1 has been live on Solana mainnet since April, with a Version 2 coming soon.
 
 <https://github.com/StockpileProtocol>
 
@@ -75,8 +63,5 @@ The project is open-sourced with the MIT license and maintained by my teammates 
 <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000">
 <img src="https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=339933">
-<img src="https://img.shields.io/badge/Github-FFFFFF?style=for-the-badge&logo=solana&logoColor=000000">
 <img src="https://img.shields.io/badge/Three.js-FFFFFF?style=for-the-badge&logo=threedotjs&logoColor=F37500">
 <img src="https://img.shields.io/badge/TailwindCSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=339933">
-<img src="https://img.shields.io/badge/npm-FFFFFF?style=for-the-badge&logo=npm&logoColor=CB3837">
-
