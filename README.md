@@ -6,9 +6,9 @@
 <img src="https://i.imgur.com/IoGf7BE.jpg" width=200/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-Web3-green"/>
 <img src="https://img.shields.io/badge/-Rust-orange"/>
 <img src="https://img.shields.io/badge/-Typescript-blue"/>
+<img src="https://img.shields.io/badge/-Next-black"/>
 
 <p align="center">
  <a href="https://twitter.com/0xSavant" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=0077B5" alt="kenk_twitter"></a>
