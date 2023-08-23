@@ -21,6 +21,12 @@
 
 ## &nbsp; **🧱 2023 Major Projects**
 
+### :zap: Positioner
+
+<img align="center" src="https://i.imgur.com/18L1OIy.png" width="500">
+
+Positioner takes your resume and matches you with the best jobs from all over the internet. We do this by extracting keywords from the resume, scraping 10+ top job sites, and using GPT-4 to filter it down to the best results for you.
+
 ### :moneybag: Stockpile
 
 <img align="center" src="https://i.imgur.com/MHne2N2.png" width="500">
