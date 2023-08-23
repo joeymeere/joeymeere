@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Joey!</h1>
 
 <p align="center">
-<img src="https://i.imgur.com/whikWOM.png" width=200/>
+<img src="https://i.imgur.com/IoGf7BE.jpg" width=200/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Web3-green"/>
