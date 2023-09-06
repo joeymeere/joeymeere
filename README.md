@@ -25,7 +25,7 @@
 
 <img align="center" src="https://i.imgur.com/QcTKHWn.png" width="500">
 
-Positioner takes your resume and matches you with the best jobs from all over 15 job boards. We do this by extracting keywords from a resume, and using AI to filter it down to the best results for you. We offer a free plan, and two different paid plans depending on how often you'd like job postings, how many boards you'd like data from, and the amount of extra keywords you'd like to add.
+Positioner takes your resume and matches you with the best jobs from over 15 job boards. We do this by extracting keywords from a resume, and using AI to filter it down to the best results for you. We offer a free plan, and two different paid plans depending on how often you'd like job postings, how many boards you'd like data from, and the amount of extra keywords you'd like to add.
 
 <https://positioner.io>
 
