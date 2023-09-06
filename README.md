@@ -50,11 +50,13 @@ Stockpile is a web3 crowdfunding project that utilizes various different funding
 <https://stockpile.pro>
 
 #### Awards: 
-##### :star2: 3rd Place in the Reputation Track at Solana Sandstorm 2023
+##### 🏆 Winner of Solana Collective Pitch Competition
+##### 🌟 3rd Place in the Reputation Track at Solana Sandstorm 2023
+##### 💲 Solana Foundation Student Grant Recipient
 
 <br>
 
-###  :fries: CUFries
+###  🍟 CUFries
 
 <img align="center" src="https://i.imgur.com/KfhgqGI.png" width="150">
 
@@ -69,7 +71,7 @@ The project is open-sourced with the MIT license and maintained by my teammates 
 <https://cufries.com>
 
 #### Awards:
-##### :trophy: 1st Place in the Hack For The People track at CUHackIt 2023
+##### 🏆 1st Place in the Hack For The People track at CUHackIt 2023
 
 <br>
 
