@@ -21,13 +21,25 @@
 
 ## &nbsp; **🧱 2023 Major Projects**
 
-### :zap: Positioner
+### ⚡ Positioner
 
-<img align="center" src="https://i.imgur.com/18L1OIy.png" width="500">
+<img align="center" src="https://i.imgur.com/QcTKHWn.png" width="500">
 
-Positioner takes your resume and matches you with the best jobs from all over the internet. We do this by extracting keywords from the resume, scraping 10+ top job sites, and using GPT-4 to filter it down to the best results for you.
+Positioner takes your resume and matches you with the best jobs from all over 15 job boards. We do this by extracting keywords from a resume, and using AI to filter it down to the best results for you. We offer a free plan, and two different paid plans depending on how often you'd like job postings, how many boards you'd like data from, and the amount of extra keywords you'd like to add.
 
-### :moneybag: Stockpile
+<https://positioner.io>
+
+### 🕹️ 'Cade
+
+<img align="center" src="https://i.imgur.com/N6oQbzv.png" width="500">
+
+'Cade is a platform akin to a decentralized arcade, where blockchain-based games can function with a structured marketplace, rewards and social layer. In addition to providing our own games, we aim to provide a place for developers to self-publish their games and plug into our system, thereby providing distribution, incentives, and social with little effort on their end, allowing them to focus on creating awesome games for players to enjoy.
+
+Built for the Web3 Builders Alliance Q4 2023 Artisan Cohort & the Solana Hyperdrive Hackathon.
+
+<https://github.com/Web3-Builders-Alliance/cade-programs>
+
+### 💰 Stockpile
 
 <img align="center" src="https://i.imgur.com/MHne2N2.png" width="500">
 
