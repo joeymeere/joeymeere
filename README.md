@@ -1,9 +1,9 @@
 <!-- markdownlint-disable MD033 -->
 
-<h1 align="center">Hi, I'm Joey!</h1>
+<h1 align="center">👋 Hi, I'm Joey!</h1>
 
 <p align="center">
-<img src="https://i.imgur.com/IoGf7BE.jpg" width=200/>
+<img src="https://i.imgur.com/PWKdcY2.jpg" width=200/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Rust-orange"/>
@@ -13,8 +13,9 @@
 <p align="center">
  <a href="https://twitter.com/0xSavant" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=0077B5" alt="kenk_twitter"></a>
 <a href="https://discord.gg/8hZRT7VKpb" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="kenk_discord"></a>
-  
- <p align="center"> I'm a Clemson University student who builds end-to-end products, dabbles with fun side-projects, and makes a few open-source contributions once in awhile. </p>
+
+<p align="center"> I'm a Clemson University student who builds products, dabbles with fun side-projects, and makes a few open-source contributions once in awhile. </p>
+
  
  
  
@@ -58,7 +59,7 @@ Stockpile is a web3 crowdfunding project that utilizes various different funding
 
 ###  🍟 CUFries
 
-<img align="center" src="https://i.imgur.com/KfhgqGI.png" width="150">
+<img align="center" src="https://i.imgur.com/hBnPna0.png" width="500">
 
 CUFries is a Clemson dining hall menu aggregator built for the CUHackIt 2023 competiton. The project was built over a 24 hour period in the Watt Center, and consisted of a team of three. 
 
