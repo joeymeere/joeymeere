@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD033 -->
-
 <h1 align="center">👋 Hi, I'm Joey!</h1>
 
 <p align="center">
