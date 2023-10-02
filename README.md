@@ -2,15 +2,17 @@
 
 <p align="center">
 <img src="https://i.imgur.com/PWKdcY2.jpg" width=200/>
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Rust-orange"/>
 <img src="https://img.shields.io/badge/-Typescript-blue"/>
 <img src="https://img.shields.io/badge/-Next-black"/>
+</p>
 
 <p align="center">
- <a href="https://twitter.com/0xSavant" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=0077B5" alt="kenk_twitter"></a>
-<a href="https://discord.gg/8hZRT7VKpb" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="kenk_discord"></a>
+ <a href="https://twitter.com/0xSavant" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=0077B5" alt="kenk_twitter" /></a>
+<a href="https://discord.gg/8hZRT7VKpb" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="kenk_discord" /></a>
 
 <p align="center"> I'm a Clemson University student who builds products, dabbles with fun side-projects, and makes a few open-source contributions once in awhile. </p>
 
@@ -22,7 +24,7 @@
 
 ### ⚡ Positioner
 
-<img align="center" src="https://i.imgur.com/QcTKHWn.png" width="500">
+<img align="center" src="https://i.imgur.com/QcTKHWn.png" width="500" />
 
 Positioner takes your resume and matches you with the best jobs from over 15 job boards. We do this by extracting keywords from a resume, and using AI to filter it down to the best results for you. We offer a free plan, and two different paid plans depending on how often you'd like job postings, how many boards you'd like data from, and the amount of extra keywords you'd like to add.
 
