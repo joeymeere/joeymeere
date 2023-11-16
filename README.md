@@ -22,13 +22,24 @@
 
 ## &nbsp; **🧱 2023 Major Projects**
 
-### ⚡ Positioner
+### 🔷 Stockpile
 
-<img align="center" src="https://i.imgur.com/QcTKHWn.png" width="500" />
+<img align="center" src="https://i.imgur.com/n0lyLaY.jpg" width="500">
 
-Positioner takes your resume and matches you with the best jobs from over 15 job boards. We do this by extracting keywords from a resume, and using AI to filter it down to the best results for you. We offer a free plan, and two different paid plans depending on how often you'd like job postings, how many boards you'd like data from, and the amount of extra keywords you'd like to add.
+Stockpile is community funding suite for projects and businesses that want to avoid loans, but aren't a great fit for angel funding and venture capital.
 
-<https://positioner.io>
+For projects and businesses looking to get funded without seeking loans or institutional capital, we offer the ability to create crowdfunds based on rewards or future equity agreements. For organizations looking to distribute grants, we provide a system which democratizes the process of distribution across a variety of stakeholders. Existing fundraisers can enter limited time grant rounds, and use contributions as votes for a share of the total grant pool.
+
+<https://stockpile.so>
+
+<https://github.com/StockpileLabs>
+
+#### Awards: 
+- 🏆 Winner of Solana Collective Pitch Competition
+- 🌟 3rd Place in the Reputation Track at Solana Sandstorm 2023
+- 💲 Solana Foundation Student Grant Recipient
+
+<br>
 
 ### 🕹️ 'Cade
 
@@ -40,20 +51,8 @@ Built for the Web3 Builders Alliance Q4 2023 Artisan Cohort & the Solana Hyperdr
 
 <https://github.com/Web3-Builders-Alliance/cade-programs>
 
-### 💰 Stockpile
-
-<img align="center" src="https://i.imgur.com/MHne2N2.png" width="500">
-
-Stockpile is a web3 crowdfunding project that utilizes various different funding methods and configurations to provide a high-quality all-in-one experience. Version 1 has been live on Solana mainnet since April, with a Version 2 coming soon.
-
-<https://github.com/StockpileProtocol>
-
-<https://stockpile.pro>
-
 #### Awards: 
-##### 🏆 Winner of Solana Collective Pitch Competition
-##### 🌟 3rd Place in the Reputation Track at Solana Sandstorm 2023
-##### 💲 Solana Foundation Student Grant Recipient
+- 🏆 Honorable Mention at Solana Hyperdrive
 
 <br>
 
@@ -72,7 +71,17 @@ The project is open-sourced with the MIT license and maintained by my teammates 
 <https://cufries.com>
 
 #### Awards:
-##### 🏆 1st Place in the Hack For The People track at CUHackIt 2023
+-  🏆 1st Place in the Hack For The People track at CUHackIt 2023
+
+<br>
+
+### ⚡ Positioner
+
+<img align="center" src="https://i.imgur.com/QcTKHWn.png" width="500" />
+
+Positioner takes your resume and matches you with the best jobs from over 15 job boards. We do this by extracting keywords from a resume, and using AI to filter it down to the best results for you. We offer a free plan, and two different paid plans depending on how often you'd like job postings, how many boards you'd like data from, and the amount of extra keywords you'd like to add.
+
+<https://positioner.io>
 
 <br>
 
