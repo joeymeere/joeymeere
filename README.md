@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- <a href="https://twitter.com/0xSavant" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=0077B5" alt="kenk_twitter" /></a>
+ <a href="https://twitter.com/joeymeere" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=0077B5" alt="kenk_twitter" /></a>
 <a href="https://discord.gg/8hZRT7VKpb" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-FFFFFF?style=for-the-badge&logo=Discord&logoColor=5865F2" alt="kenk_discord" /></a>
 
 <p align="center"> I'm a Clemson University student who builds products, dabbles with fun side-projects, and makes a few open-source contributions once in awhile. </p>
