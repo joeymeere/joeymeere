@@ -3,6 +3,9 @@
 <p align="center">
 <img src="https://i.imgur.com/PWKdcY2.jpg" width=200/>
 </p>
+<p align="center">
+Founder & CEO of Stockpile Labs
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-Rust-orange"/>
