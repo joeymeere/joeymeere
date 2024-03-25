@@ -23,7 +23,19 @@ Founder & CEO of Stockpile Labs
  
  
 
-## &nbsp; **🧱 2023 Major Projects**
+## &nbsp; **👑 2024 Major Projects**
+
+### 👾 Zircon
+
+A Solana-centric platform for building and testing your skills as a developer.
+
+Complete coding challenges designed to test a variety of skill levels, and compete with your peers on the best solutions. Climb to the top of the leaderboard, and assert yourself as a top developer on Solana. If you're new, you can follow guided hands-on courses that teach you Solana in a practical manner. Zircon also features sponsored challenges and courses, giving an incentive to build your skills from the ground up, and earn protocol tokens for doing so.
+
+<https://zircon.wtf>
+
+<https://github.com/joeymeere/zircon>
+
+<br>
 
 ### 🔷 Stockpile
 
@@ -37,12 +49,19 @@ For projects and businesses looking to get funded without seeking loans or insti
 
 <https://github.com/StockpileLabs>
 
+#### Stats:
+- 3,200+ total users
+- Over $25k in total impact
+- Built Solana's first on-chain quadratic funding primitive
+
 #### Awards: 
 - 🏆 Winner of Solana Collective Pitch Competition
 - 🌟 3rd Place in the Reputation Track at Solana Sandstorm 2023
 - 💲 Solana Foundation Student Grant Recipient
 
 <br>
+
+## &nbsp; **🧱 2023 Major Projects**
 
 ### 🕹️ 'Cade
 
